@@ -1,0 +1,5 @@
+Used Bebbos gcc 6.6.0b to compile.
+
+If make is not installed:
+m68k-amigaos-gcc -noixemul test.c -o test -lamiga
+
